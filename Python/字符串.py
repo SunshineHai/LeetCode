@@ -36,16 +36,6 @@ def replace(t, pattern, string):
         pattern ： 模式串
         string : 被替换串
     '''
-    count = 0
-    j = 0
-    while j < len(t):
-        j = match_KMP(t, pattern, gen_pnext(pattern))
-        count, j = count+1, j+len(pattern)
-        t = t[j:]
-    print("t:", t)
-    if t == t[-1]:
-        count = 0
-    print("count:", count)
     pass
 
 if __name__ == '__main__':
