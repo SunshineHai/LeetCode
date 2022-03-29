@@ -52,7 +52,7 @@ class single_linked_list:
         while temp.next is not None:
             temp = temp.next
         temp.next = Node(data)
-        return
+        return self._head
 
     ''':找到满足给定条件的表元素, pred 是给定条件的函数
        :只能找到第一个满足条件时的元素，pred 可以使用 lambda 表达式
@@ -74,8 +74,8 @@ class single_linked_list:
         return
 
     # 传统遍历
-    def print_all(self):
-        temp = self._head
+    def print_all(self, head):
+        temp = head
         while temp is not None:
             print(temp.data, end='\t')
             temp = temp.next
@@ -102,13 +102,31 @@ class single_linked_list:
             temp = temp.next
         return
 
+    '''
+        递归 反转链表
+    '''
+    def reverse_list(self, head):
+
+        if head is None or head.next is None:    # 递归结束条件
+            return head
+        else:
+            ans = self.reverse_list(head.next)   # 递归下一个结点 到 倒数第二个结点
+
+            head.next.next = head                # 最后一个结点指向倒数第二个结点
+            head.next = None                     # 最后一结点的指针域赋值为空
+        return ans
+
+
+
+
+
 
 if __name__ == '__main__':
     mlist = single_linked_list()
     for i in range(10):
-        mlist.prepend(i)
+        head = mlist.prepend(i)
     for i in range(11, 20):
-        mlist.append(i)
+        head = mlist.append(i)
 #    遍历输出所有元素
     for x in mlist.elements():
         print(x, end='\t')
@@ -123,7 +141,21 @@ if __name__ == '__main__':
 
     mlist.for_each(print)
     print()
-    mlist.print_all()
+    mlist.print_all(head)
+
+    print('--------------------')
+    mlist1 = single_linked_list()
+    for i in range(1, 6):
+        head = mlist1.append(i)
+    for i in mlist1.elements():
+        print(i, end='\t')
+    print("head:", head.data)
+    head = mlist1.reverse_list(head)
+    mlist1.print_all(head)
+    print()
+
+
+
 
 
 
