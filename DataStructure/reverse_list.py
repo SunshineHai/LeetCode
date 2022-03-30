@@ -1,16 +1,6 @@
 
 class Solution:
 
-    def reverseList(self, head):
-        # 说明 head 是最后一个结点
-        if head is None or head.next is None:
-            return head
-
-        ans = self.reverseList(head.next)
-        head.next.next = head
-        head.next=None
-        return ans
-
     def get_factorial(self, num):
 
         if num == 0:
