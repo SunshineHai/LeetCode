@@ -1,9 +1,30 @@
 import time
 import datetime as dt
-
+import pandas as pd
+import numpy as np
 
 currdate = dt.date.today()
 currdate = str(currdate).replace('-', '/')
 
 print(currdate)
 
+df = pd.DataFrame(np.array([
+    ['Alfred', '0', np.NaN],
+    ['Batman', pd.NaT, '7'],
+    [np.nan, '10', '11'],
+    ['I', "love", "China"]
+]), columns=['name', 'toy', 'born'])
+print(df)
+
+print('--------------------------------')
+print(df.dropna(axis=1))
+
+from sklearn.preprocessing import StandardScaler
+
+X_train = pd.DataFrame({'a' : [3, 2, 7],
+                        'b' : [6, 4, 9]})
+print(X_train)
+transfer = StandardScaler()                    #  实例化对象
+X_train = transfer.fit_transform(X_train)
+
+print(X_train)
