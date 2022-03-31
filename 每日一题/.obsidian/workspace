@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e36fc2529fbbb4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30fd9d7bbe62861",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习计划/2022.3.31.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77229715748a62d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "059dd85f284074c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b335df2ecc87e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c0c36898d327bf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "f4a8dc6036b8f0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "30d4610750543e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571ac44c21ea264c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习计划/2022.3.31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c30fd9d7bbe62861",
+  "lastOpenFiles": [
+    "学习计划/2022.3.31.md",
+    "8.DM/坐标预测测试.md",
+    "8.DM/数据的标准化.md",
+    "Jupyter 更换主题.md",
+    "3.Python刷题/Jupyter Notebook打开指定文件夹.md",
+    "7.爬虫/爬虫把结构发送到手机.md",
+    "数据分析要求.md",
+    "2.数据结构刷题/反转链表.md",
+    "反转链表.md",
+    "线性表.md"
+  ]
+}
