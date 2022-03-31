@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习计划/2022.3.31.md",
-            "mode": "source",
+            "file": "数据分析要求.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习计划/2022.3.31.md",
+                "file": "数据分析要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "c30fd9d7bbe62861",
   "lastOpenFiles": [
+    "数据分析要求.md",
     "学习计划/2022.3.31.md",
     "8.DM/坐标预测测试.md",
     "8.DM/数据的标准化.md",
     "Jupyter 更换主题.md",
     "3.Python刷题/Jupyter Notebook打开指定文件夹.md",
     "7.爬虫/爬虫把结构发送到手机.md",
-    "数据分析要求.md",
     "2.数据结构刷题/反转链表.md",
     "反转链表.md",
     "线性表.md"
