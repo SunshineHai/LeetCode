@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import precision_score, recall_score, f1_score
-
+from sklearn.metrics import roc_auc_score  # AUC : ROC 曲线下的面积
 
 # 1.获取数据
 names = ['index', 'A0', 'A1', 'A2', 'A3', 'x', 'y', 'z', 'label']
@@ -41,6 +42,29 @@ precision = precision_score(np.array(y_test), np.array(y_predict))
 recall = recall_score(y_test, y_predict)
 f1 = f1_score(y_test, y_predict)
 
+
+# 0.5~1之间，越接近于1约好
+# y_test = np.where(y_test > 2.5, 1, 0)   # y_test 是否 大于2.5。 为真则为1， 否则为0
+AUC = roc_auc_score(y_test, y_predict)
+print("AUC指标：", AUC)
+
+""":arg
+    row_name :  模型名称
+"""
+# 设置字体，正常显示中文
+plt.rcParams['font.sans-serif'] = ['SimHei']
+plt.rcParams['axes.unicode_minus'] = False
+
+print('-----------LogicRegression-----------------')
 print(precision)
-print(recall)
-print(f1)
+def show_error(row_name:list, precision:list, recall:list, f1:list, AUC:list, path):
+#     plt.figure(figsize=(10, 10))
+    plt.plot(row_name, precision, 'or-', recall, '^g-', f1, '*b-', AUC, 'bo')
+    plt.legend(['precision', 'recall', 'f1', 'AUC'], loc='upper right')
+    plt.savefig(path, dpi=300)
+    plt.show()
+pass
+
+path = r'..\figure\evaluate_indicator.png'
+show_error(['逻辑回归'], precision, recall, f1, AUC, path)
+
