@@ -57,14 +57,15 @@ plt.rcParams['axes.unicode_minus'] = False
 
 print('-----------LogicRegression-----------------')
 print(precision)
-def show_error(row_name:list, precision:list, recall:list, f1:list, AUC:list, path):
-#     plt.figure(figsize=(10, 10))
-    plt.plot(row_name, precision, 'or-', recall, '^g-', f1, '*b-', AUC, 'bo')
+
+def show_error(x_name:list, precision:list, recall:list, f1:list, AUC:list, path):
+    plt.plot(x_name, precision, 'or-', recall, '^g-', f1, '*b-', AUC, '.y-.')
     plt.legend(['precision', 'recall', 'f1', 'AUC'], loc='upper right')
     plt.savefig(path, dpi=300)
     plt.show()
-pass
+    pass
 
 path = r'..\figure\evaluate_indicator.png'
-show_error(['逻辑回归'], precision, recall, f1, AUC, path)
+x_name = ['逻辑回归']
+show_error(x_name, precision, recall, f1, AUC, path)
 

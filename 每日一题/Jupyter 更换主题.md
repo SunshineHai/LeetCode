@@ -1,7 +1,7 @@
 ## 查看安装默认主题
 
 ```text
-jt l
+jt -l
 ```
 
 ![](https://s2.loli.net/2022/03/30/3y2RFVHT6pWDoPi.png)

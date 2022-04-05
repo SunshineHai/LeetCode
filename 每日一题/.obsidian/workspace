@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.数据结构刷题/栈.md",
+            "file": "3.Python刷题/pyplot.plot() 的简单使用.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.数据结构刷题/栈.md",
+            "file": "3.Python刷题/pyplot.plot() 的简单使用.md",
             "mode": "preview",
             "source": true
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 306
   },
   "right": {
     "id": "f4a8dc6036b8f0c1",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.数据结构刷题/栈.md",
+                "file": "3.Python刷题/pyplot.plot() 的简单使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +103,8 @@
   },
   "active": "c30fd9d7bbe62861",
   "lastOpenFiles": [
+    "3.Python刷题/pyplot.plot() 的简单使用.md",
+    "Jupyter 更换主题.md",
     "2.数据结构刷题/栈.md",
     "2.数据结构刷题/线性表.md",
     "2.数据结构刷题/字符串匹配.md",
@@ -111,8 +112,6 @@
     "学习计划/2022.3.31.md",
     "8.DM/坐标预测测试.md",
     "8.DM/数据的标准化.md",
-    "Jupyter 更换主题.md",
-    "3.Python刷题/Jupyter Notebook打开指定文件夹.md",
-    "7.爬虫/爬虫把结构发送到手机.md"
+    "3.Python刷题/Jupyter Notebook打开指定文件夹.md"
   ]
 }

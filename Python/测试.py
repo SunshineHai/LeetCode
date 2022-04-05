@@ -48,8 +48,5 @@ def show_error(row_name:list, precision:list, recall:list, f1:list, AUC:list, pa
     plt.legend(['precision', 'recall', 'f1', 'AUC'], loc='upper right')
     plt.savefig(path, dpi=300)
     plt.show()
-pass
+    pass
 
-x_name = ['precision', 'recall', 'f1', 'AUC']
-
-show_error(x_name, [0.5, 0.6, 0.8, 0.9], [0.56, 0.66, 0.82, 0.91], [0.4, 0.6, 0.85, 0.92], [0.6, 0.7, 0.82, 0.84, 0.93], r'test.png')
