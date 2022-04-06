@@ -35,7 +35,13 @@ estimator.fit(x_train, y_train)
 
 # 5.模型评估
 y_predict = estimator.predict(x_test)
-print(estimator.score(x_test, y_test))
+
+
+pd.DataFrame(x_test).to_csv(r'C:\Users\JackYang\Desktop\x_test.csv')
+pd.DataFrame(y_test).to_csv(r'C:\Users\JackYang\Desktop\y_test.csv')
+pd.DataFrame(y_predict).to_csv(r'C:\Users\JackYang\Desktop\y_predict.csv')
+print("--------------------score-----------------------")
+print(estimator.score(x_test, y_test))              # 精度 ： 分类结果正确的样本占样本总数的比例
 
 print('-----------------------------------------------')
 precision = precision_score(np.array(y_test), np.array(y_predict))
@@ -65,7 +71,7 @@ def show_error(x_name:list, precision:list, recall:list, f1:list, AUC:list, path
     plt.show()
     pass
 
-path = r'..\figure\evaluate_indicator.png'
+path = r'..\figure\logicRegression.png'
 x_name = ['逻辑回归']
 show_error(x_name, precision, recall, f1, AUC, path)
 

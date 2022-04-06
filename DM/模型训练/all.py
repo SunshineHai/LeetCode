@@ -126,8 +126,8 @@ data, _, _ = normalization(x)  # 进行归一化
 models = [lgb.LGBMClassifier(objective='binary', num_leaves=31, learning_rate=0.05, n_estimators=20),
           KNeighborsClassifier(n_neighbors=9), DecisionTreeClassifier(criterion="entropy", max_depth=5),
           MultinomialNB(alpha=1), SVC(), MLPClassifier(alpha=0.01), LogisticRegression()]
-models_str = ['LightGBM', 'KNeighbors', 'DecisionTree',
-              'MultinomialNB', 'SVC', 'MLP', 'LogisticRegression']
+models_str = ['LightGBM', 'KNN', 'DTree',
+              'naive_bayes', 'SVC', 'MLP', 'LR']
 precision_data = []
 recall_data = []
 f1_data = []

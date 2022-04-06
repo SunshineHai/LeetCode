@@ -97,9 +97,15 @@ for name, model in zip(models_str, models):  # zip() : 变量2个迭代器
     f1_data.append(f1)
     AUC_data.append(AUC)
     run_time_data.append(run_time)
+
+    # 精度：
+    print("-----------------精度---------------------")
+    print(model.score(x_test, y_test))  # 精度 ： 分类结果正确的样本占样本总数的比例
+
     pass
 path = r'..\figure\show_error.tif'
 x_name = models_str
 print(precision_data, '\n', recall_data, '\n', f1_data, '\n', AUC_data, '\n', run_time_data)
 show_error(x_name, precision_data, recall_data, f1_data, AUC_data, path)
+
 
