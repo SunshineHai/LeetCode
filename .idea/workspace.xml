@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f07e41f-caea-4166-991f-5e0e96410b65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DM/数据探索/相似性矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/emp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM/figure/evaluate_indicator.png" beforeDir="false" afterPath="$PROJECT_DIR$/DM/figure/evaluate_indicator.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM/figure/show_error.tif" beforeDir="false" afterPath="$PROJECT_DIR$/DM/figure/show_error.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM/模型训练/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/DM/模型训练/all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM/模型训练/支持向量机.py" beforeDir="false" afterPath="$PROJECT_DIR$/DM/模型训练/支持向量机.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM/模型训练/逻辑回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/DM/模型训练/逻辑回归.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/坐标预测测试-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/坐标预测测试-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/坐标预测测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/坐标预测测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.ipynb_checkpoints/测试-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/.ipynb_checkpoints/测试-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日一题/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/.obsidian/workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日一题/2.数据结构刷题/栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/2.数据结构刷题/栈.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +54,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SunshineHai\LeetCode\DM\data" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SunshineHai\LeetCode\DataStructure" />
       <recent name="D:\SunshineHai\LeetCode\DM\数据探索" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SunshineHai\LeetCode\DM\data" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.支持向量机">
+  <component name="RunManager" selected="Python.栈">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -178,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="相似性矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="栈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,32 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/数据探索" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/数据探索/相似性矩阵.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="逻辑回归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/模型训练" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/逻辑回归.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/栈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,48 +211,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/LightGBM.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="爬取最新通知" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/爬取最新通知.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="线性表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/线性表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -451,6 +387,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="相似性矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/数据探索" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/数据探索/相似性矩阵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="逻辑回归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/模型训练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/逻辑回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取最新通知" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/爬取最新通知.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="线性表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/线性表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -474,10 +494,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.支持向量机" />
-        <item itemvalue="Python.逻辑回归" />
-        <item itemvalue="Python.相似性矩阵" />
+        <item itemvalue="Python.栈" />
         <item itemvalue="Python.all" />
+        <item itemvalue="Python.支持向量机" />
         <item itemvalue="Python.LightGBM" />
       </list>
     </recent_temporary>
@@ -523,54 +542,55 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1648621584325" />
-    <state width="1515" height="31" key="GridCell.Tab.0.bottom" timestamp="1649214134977">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1649487879695">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1515" height="31" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649214134977" />
-    <state width="1515" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648690144920" />
-    <state width="1515" height="31" key="GridCell.Tab.0.center" timestamp="1649214134977">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="374" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649249882678" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879695" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1649487879695">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1515" height="31" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649214134977" />
-    <state width="1515" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648690144920" />
-    <state width="1515" height="31" key="GridCell.Tab.0.left" timestamp="1649214134977">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="374" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649249882678" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879695" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1649487879695">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1515" height="31" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649214134977" />
-    <state width="1515" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648690144919" />
-    <state width="1515" height="31" key="GridCell.Tab.0.right" timestamp="1649214134977">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="374" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649249882678" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879695" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1649487879695">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1515" height="31" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649214134977" />
-    <state width="1515" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648690144920" />
-    <state width="1515" height="309" key="GridCell.Tab.1.bottom" timestamp="1649164935561">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="374" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649249882678" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879695" />
+    <state width="1899" height="284" key="GridCell.Tab.1.bottom" timestamp="1649487879696">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="309" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649164935561" />
-    <state width="1515" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648532862762" />
-    <state width="1515" height="309" key="GridCell.Tab.1.center" timestamp="1649164935561">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879696" />
+    <state width="1899" height="284" key="GridCell.Tab.1.center" timestamp="1649487879696">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="309" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649164935561" />
-    <state width="1515" height="309" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648532862762" />
-    <state width="1515" height="309" key="GridCell.Tab.1.left" timestamp="1649164935561">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879696" />
+    <state width="1899" height="284" key="GridCell.Tab.1.left" timestamp="1649487879696">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="309" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649164935561" />
-    <state width="1515" height="309" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648532862762" />
-    <state width="1515" height="309" key="GridCell.Tab.1.right" timestamp="1649164935561">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879696" />
+    <state width="1899" height="284" key="GridCell.Tab.1.right" timestamp="1649487879696">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="309" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649164935561" />
-    <state width="1515" height="309" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648532862762" />
+    <state width="1899" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649487879696" />
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1648907827029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1648907827029" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1649073316860">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1649484774877">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649073316860" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1649484774877" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
