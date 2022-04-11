@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f07e41f-caea-4166-991f-5e0e96410b65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/栈与递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/栈的经典应用-括号匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/测试列表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/每日一题/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/.obsidian/workspace" afterDir="false" />
     </list>
@@ -57,7 +58,7 @@
       <recent name="D:\SunshineHai\LeetCode\DM\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.栈与递归">
+  <component name="RunManager" selected="Python.栈的经典应用-括号匹配">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -151,6 +152,27 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <configuration name="栈的经典应用-括号匹配" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/栈的经典应用-括号匹配.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="支持向量机" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LightGBM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="测试列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/模型训练" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/LightGBM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/测试列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -531,10 +553,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.栈的经典应用-括号匹配" />
+        <item itemvalue="Python.测试列表" />
         <item itemvalue="Python.栈与递归" />
         <item itemvalue="Python.all" />
         <item itemvalue="Python.支持向量机" />
-        <item itemvalue="Python.LightGBM" />
       </list>
     </recent_temporary>
   </component>
@@ -579,54 +602,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1648621584325" />
-    <state width="1515" height="331" key="GridCell.Tab.0.bottom" timestamp="1649665844646">
+    <state width="1515" height="126" key="GridCell.Tab.0.bottom" timestamp="1649678505321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649678505321" />
     <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="331" key="GridCell.Tab.0.center" timestamp="1649665844646">
+    <state width="1515" height="126" key="GridCell.Tab.0.center" timestamp="1649678505321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="126" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649678505321" />
     <state width="1899" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="331" key="GridCell.Tab.0.left" timestamp="1649665844646">
+    <state width="1515" height="126" key="GridCell.Tab.0.left" timestamp="1649678505321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="126" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649678505321" />
     <state width="1899" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="331" key="GridCell.Tab.0.right" timestamp="1649665844646">
+    <state width="1515" height="126" key="GridCell.Tab.0.right" timestamp="1649678505321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="126" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649678505321" />
     <state width="1899" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="331" key="GridCell.Tab.1.bottom" timestamp="1649665844646">
+    <state width="1515" height="168" key="GridCell.Tab.1.bottom" timestamp="1649678505317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649678505317" />
     <state width="1899" height="245" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="331" key="GridCell.Tab.1.center" timestamp="1649665844646">
+    <state width="1515" height="168" key="GridCell.Tab.1.center" timestamp="1649678505317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="168" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649678505317" />
     <state width="1899" height="245" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="331" key="GridCell.Tab.1.left" timestamp="1649665844646">
+    <state width="1515" height="168" key="GridCell.Tab.1.left" timestamp="1649678505317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="168" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649678505317" />
     <state width="1899" height="245" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="331" key="GridCell.Tab.1.right" timestamp="1649665844646">
+    <state width="1515" height="168" key="GridCell.Tab.1.right" timestamp="1649678505317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="331" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649665844646" />
+    <state width="1515" height="168" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649678505317" />
     <state width="1899" height="245" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1649642532952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1649642532952" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1649640390108">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1649669923630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649640390108" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1649669923630" />
     <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1649484774877" />
   </component>
   <component name="XDebuggerManager">
@@ -646,11 +669,6 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="knap_rec(weight - wlist[n-1], wlist, n-1)" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
