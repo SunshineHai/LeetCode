@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.数据结构刷题/栈.md",
+            "file": "2.数据结构刷题/栈与递归.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.数据结构刷题/栈.md",
+            "file": "2.数据结构刷题/栈与递归.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.数据结构刷题/栈.md",
+                "file": "2.数据结构刷题/栈与递归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c30fd9d7bbe62861",
+  "active": "ba69614d19aa1e46",
   "lastOpenFiles": [
+    "2.数据结构刷题/栈与递归.md",
     "2.数据结构刷题/栈.md",
     "4.C语言刷题/求最大公约数.md",
     "4.C语言刷题/字符串替换.md",
@@ -111,7 +112,6 @@
     "2.数据结构刷题/线性表.md",
     "2.数据结构刷题/字符串匹配.md",
     "数据分析要求.md",
-    "学习计划/2022.3.31.md",
-    "8.DM/坐标预测测试.md"
+    "学习计划/2022.3.31.md"
   ]
 }
