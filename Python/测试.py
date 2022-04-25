@@ -50,3 +50,17 @@ def show_error(row_name:list, precision:list, recall:list, f1:list, AUC:list, pa
     plt.show()
     pass
 
+
+print(round(0.17809215, 5))
+
+save_path = "..\\\\figure\\\\res.png"
+print(save_path)
+
+
+
+# 画散点图
+x = [i for i in range(10)]
+y = [1]*10
+plt.scatter(x, y, marker='.', s=np.pi*4**2, c="#000000", alpha=1, label='Original data')
+plt.legend()
+plt.show()

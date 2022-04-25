@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ba69614d19aa1e46",
+        "id": "38bef2cbacec2d3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.MySQL刷题/未命名.md",
+            "file": "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.MySQL刷题/未命名.md",
+                "file": "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba69614d19aa1e46",
+  "active": "38bef2cbacec2d3b",
   "lastOpenFiles": [
+    "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
+    "1.MySQL刷题/知识点4.MySQL-查询面试薪资最小和最大的平均值.md",
     "1.MySQL刷题/未命名.md",
     "2.数据结构刷题/折半查找.md",
     "2.数据结构刷题/有效的括号-栈的括号匹配.md",
@@ -96,8 +98,6 @@
     "2.数据结构刷题/栈.md",
     "4.C语言刷题/求最大公约数.md",
     "4.C语言刷题/字符串替换.md",
-    "3.Python刷题/pyplot.plot() 的简单使用.md",
-    "Jupyter 更换主题.md",
-    "2.数据结构刷题/线性表.md"
+    "3.Python刷题/pyplot.plot() 的简单使用.md"
   ]
 }

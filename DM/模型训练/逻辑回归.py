@@ -74,4 +74,39 @@ def show_error(x_name:list, precision:list, recall:list, f1:list, AUC:list, path
 path = r'..\figure\logicRegression.png'
 x_name = ['逻辑回归']
 show_error(x_name, precision, recall, f1, AUC, path)
+save_path = "..\\\\figure\\\\res.png"
 
+print("data.columns:", data.columns)
+
+x_label = [i for i in range(len(x_train)+len(x_test))]
+x_train_label, x_test_label = x_label[:len(x_train)] ,x_label[len(x_train):]
+y_test_pred = y_predict
+
+# 形参含义：(训练集样本编号, 训练集, 测试集样本编号, 测试集预测值, 全部样本编号, 全部标签值, 图片保存路径)
+def draw(x_train_label, y_train, x_test_label, y_test_pred, x_label, y, save_path):
+
+    # 画2条（0-9）的坐标轴并设置轴标签x,y
+    plt.xlabel('Sample Number')
+    plt.ylabel('Classification')
+
+    colors1 = '#C0504D'
+    colors2 = '#00EEEE'
+    colors3 = '#000000'         # #FF6600
+
+    area1 = np.pi * 2 ** 2
+    area2 = np.pi * 3 ** 2
+    area3 = np.pi * 4 ** 2
+
+    #     print('x_test_label:', x_test_label)
+    #     print('test_y:', test_y)
+    #   画散点图
+    plt.scatter(x_train_label, y_train, marker='^', s=area2, c=colors1, alpha=1, label='Training Set')
+    # plt.scatter(x_test_label, y_test, marker='*', s=area3, c=colors2, alpha=1, label='Test Set')
+    plt.scatter(x_label, y, marker='.', s=area1, c=colors3, alpha=1, label='Original data')
+    plt.legend()
+    plt.savefig(save_path, dpi=300)  # 指定图片像素-->高清
+    plt.show()
+
+y = pd.concat([y_train, y_test], axis=0)
+
+draw(x_train_label, y_train, x_test_label, y_test_pred, x_label, y, save_path)
