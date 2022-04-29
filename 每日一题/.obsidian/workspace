@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "38bef2cbacec2d3b",
+        "id": "2767f0575dd21ab3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
+            "file": "3.Python刷题/pandas操作excel表格.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "14e793fd8bc967de"
+      },
+      {
+        "id": "d9dd75c546b71ced",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3.Python刷题/pandas操作excel表格.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "14e793fd8bc967de"
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
+                "file": "3.Python刷题/pandas操作excel表格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38bef2cbacec2d3b",
+  "active": "2767f0575dd21ab3",
   "lastOpenFiles": [
+    "3.Python刷题/pandas操作excel表格.md",
     "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
     "1.MySQL刷题/知识点4.MySQL-查询面试薪资最小和最大的平均值.md",
     "1.MySQL刷题/未命名.md",
@@ -97,7 +112,6 @@
     "2.数据结构刷题/栈与递归.md",
     "2.数据结构刷题/栈.md",
     "4.C语言刷题/求最大公约数.md",
-    "4.C语言刷题/字符串替换.md",
-    "3.Python刷题/pyplot.plot() 的简单使用.md"
+    "4.C语言刷题/字符串替换.md"
   ]
 }
