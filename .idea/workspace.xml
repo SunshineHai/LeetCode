@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f07e41f-caea-4166-991f-5e0e96410b65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/粮仓温度数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/构建神经网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Python入门/类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Python入门/继承.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日一题/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/.obsidian/appearance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/每日一题/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/.obsidian/workspace" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,22 +48,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DM/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/data" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SunshineHai\LeetCode\Python\data" />
+      <recent name="D:\SunshineHai\LeetCode\DM\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SunshineHai\LeetCode\DataStructure" />
       <recent name="D:\SunshineHai\LeetCode\DM\数据探索" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SunshineHai\LeetCode\DM\data" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.粮仓温度数据">
+  <component name="RunManager" selected="Python.继承">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -174,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="粮仓温度数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +187,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Python入门" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/粮仓温度数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Python入门/类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Python入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Python入门/继承.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,6 +234,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/Pytorch实现SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="相似性矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/数据探索" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/数据探索/相似性矩阵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +297,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/爬取最新通知.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="快速开始" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/Pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,6 +423,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/模型训练/朴素贝叶斯.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="构建神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/Pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/Pytorch/构建神经网络.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Python入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Python入门/类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,6 +683,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="粮仓温度数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/粮仓温度数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="栈与递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -615,27 +746,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="相似性矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DM/数据探索" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DM/数据探索/相似性矩阵.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -659,7 +769,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.粮仓温度数据" />
+        <item itemvalue="Python.继承" />
+        <item itemvalue="Python.类" />
         <item itemvalue="Python.Pytorch实现SVM" />
         <item itemvalue="Python.逻辑回归" />
         <item itemvalue="Python.all" />
@@ -711,45 +822,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650005970343" />
-    <state width="1515" height="185" key="GridCell.Tab.0.bottom" timestamp="1651217519981">
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1651631740330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651217519981" />
+    <state width="1515" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651631740330" />
     <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="185" key="GridCell.Tab.0.center" timestamp="1651217519980">
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1651631740330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651217519980" />
+    <state width="1515" height="157" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651631740330" />
     <state width="1899" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="185" key="GridCell.Tab.0.left" timestamp="1651217519979">
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1651631740330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651217519979" />
+    <state width="1515" height="157" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651631740330" />
     <state width="1899" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="185" key="GridCell.Tab.0.right" timestamp="1651217519981">
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1651631740330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651217519981" />
+    <state width="1515" height="157" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651631740330" />
     <state width="1899" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="270" key="GridCell.Tab.1.bottom" timestamp="1651216532533">
+    <state width="1515" height="325" key="GridCell.Tab.1.bottom" timestamp="1651545291531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651216532533" />
+    <state width="1515" height="325" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651545291531" />
     <state width="1899" height="245" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="270" key="GridCell.Tab.1.center" timestamp="1651216532533">
+    <state width="1515" height="325" key="GridCell.Tab.1.center" timestamp="1651545291531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651216532533" />
+    <state width="1515" height="325" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651545291531" />
     <state width="1899" height="245" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="270" key="GridCell.Tab.1.left" timestamp="1651216532533">
+    <state width="1515" height="325" key="GridCell.Tab.1.left" timestamp="1651545291531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651216532533" />
+    <state width="1515" height="325" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651545291531" />
     <state width="1899" height="245" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="270" key="GridCell.Tab.1.right" timestamp="1651216532533">
+    <state width="1515" height="325" key="GridCell.Tab.1.right" timestamp="1651545291531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651216532533" />
+    <state width="1515" height="325" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651545291531" />
     <state width="1899" height="245" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1650616982304">
       <screen x="0" y="0" width="1536" height="824" />
@@ -759,10 +874,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1651212446543" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1650876313126">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651629842575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1650876313126" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651629842575" />
     <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1649484774877" />
   </component>
   <component name="XDebuggerManager">
