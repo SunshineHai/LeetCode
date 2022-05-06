@@ -10,6 +10,7 @@ from torchvision import datasets, transforms
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using {device} device")
 
+
 # 定义神经网络类
 class NeuralNetwork(nn.Module):                 # 继承 父类 nn.Module
     def __init__(self):
@@ -23,10 +24,11 @@ class NeuralNetwork(nn.Module):                 # 继承 父类 nn.Module
             nn.Linear(512, 10),
         )
 
-    def forward(self, x):               # forward 方法：实现对输入数据的操操作
+    def forward(self, x):               # forward 方法：实现对输入数据的操作
         x = self.flatten(x)
         logits = self.linear_relu_stack(x)
         return logits
+
 
 # 创建实例
 model = NeuralNetwork().to(device)
