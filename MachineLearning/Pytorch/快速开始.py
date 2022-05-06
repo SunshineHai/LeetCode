@@ -34,6 +34,8 @@ test_dataloader = DataLoader(test_data, batch_size=batch_size)
 for X, y in test_dataloader:
     print(f"Shape of X[N, C, H, W]: {X.shape}")
     print(f"Shape of y: {y.shape} {y.dtype}")
+    # print(X)
+    # print(y)
     break
 
 
@@ -82,6 +84,8 @@ def train(dataloader, model, loss_fn, optimizer):
 
         # Compute prediction error
         pred = model(X)
+        # print(pred)
+        # print(y)
         loss = loss_fn(pred, y)
 
         # Backpropagation

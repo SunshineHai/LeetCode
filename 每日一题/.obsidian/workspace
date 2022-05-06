@@ -4,30 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "69c6de81024e1bd4",
+        "id": "81ace46b59cfb661",
         "type": "leaf",
+        "dimension": 49.82905982905984,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8.DM/Pytorch/构建自定义数据集.md",
+            "file": "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "64c248a4fa5a601e"
+        "group": "2e7463a65f27a6f7"
       },
       {
-        "id": "cabb1475375963e7",
+        "id": "8a85fc7a006c14d2",
         "type": "leaf",
+        "dimension": 50.17094017094016,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8.DM/Pytorch/构建自定义数据集.md",
+            "file": "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "64c248a4fa5a601e"
+        "group": "2e7463a65f27a6f7"
       }
     ],
     "direction": "vertical"
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.DM/Pytorch/构建自定义数据集.md",
+                "file": "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +103,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69c6de81024e1bd4",
+  "active": "81ace46b59cfb661",
   "lastOpenFiles": [
+    "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md",
     "8.DM/Pytorch/构建自定义数据集.md",
     "3.Python刷题/未命名.md",
     "3.Python刷题/Pytorch快速开始.md",
@@ -111,7 +114,6 @@
     "4.C语言刷题/2022武汉轻工大学 908C语言程序设计 考生会议题.md",
     "3.Python刷题/pandas操作excel表格.md",
     "1.MySQL刷题/SQL7 2021年11月每天的人均浏览文章时长.md",
-    "1.MySQL刷题/知识点4.MySQL-查询面试薪资最小和最大的平均值.md",
-    "1.MySQL刷题/未命名.md"
+    "1.MySQL刷题/知识点4.MySQL-查询面试薪资最小和最大的平均值.md"
   ]
 }

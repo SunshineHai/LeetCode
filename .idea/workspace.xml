@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f07e41f-caea-4166-991f-5e0e96410b65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/Pytorch中构造数据集.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/Pytorch构建自己的数据集使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/data/distance.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/优化模型参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/数据集和数据集加载器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/神经网络预测.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Pytorch/model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/model.pth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Pytorch/构建神经网络.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/构建神经网络.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Pytorch/神经网络预测.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/Pytorch/神经网络预测.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/每日一题/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/.obsidian/workspace" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -837,9 +832,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.神经网络预测" />
+        <item itemvalue="Python.快速开始" />
         <item itemvalue="Python.Pytorch中构造数据集" />
         <item itemvalue="Python.Pytorch构建自己的数据集使用" />
-        <item itemvalue="Python.快速开始" />
         <item itemvalue="Python.数据集和数据集加载器" />
       </list>
     </recent_temporary>
@@ -890,49 +885,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1651667945389" />
-    <state width="1515" height="73" key="GridCell.Tab.0.bottom" timestamp="1651800813751">
+    <state width="1515" height="111" key="GridCell.Tab.0.bottom" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
-    <state width="1515" height="73" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651800813751" />
+    <state width="1515" height="111" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="73" key="GridCell.Tab.0.center" timestamp="1651800813751">
+    <state width="1515" height="111" key="GridCell.Tab.0.center" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="157" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
-    <state width="1515" height="73" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651800813751" />
+    <state width="1515" height="111" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="73" key="GridCell.Tab.0.left" timestamp="1651800813751">
+    <state width="1515" height="111" key="GridCell.Tab.0.left" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="157" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
-    <state width="1515" height="73" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651800813751" />
+    <state width="1515" height="111" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="73" key="GridCell.Tab.0.right" timestamp="1651800813751">
+    <state width="1515" height="111" key="GridCell.Tab.0.right" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="157" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2000.1160@0.0.1536.824" timestamp="1651394885336" />
-    <state width="1515" height="73" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651800813751" />
+    <state width="1515" height="111" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642964832" />
-    <state width="1515" height="111" key="GridCell.Tab.1.bottom" timestamp="1651746146638">
+    <state width="1515" height="111" key="GridCell.Tab.1.bottom" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="111" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651746146638" />
+    <state width="1515" height="111" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="245" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="111" key="GridCell.Tab.1.center" timestamp="1651746146638">
+    <state width="1515" height="111" key="GridCell.Tab.1.center" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="111" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651746146638" />
+    <state width="1515" height="111" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="245" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="111" key="GridCell.Tab.1.left" timestamp="1651746146638">
+    <state width="1515" height="111" key="GridCell.Tab.1.left" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="111" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651746146638" />
+    <state width="1515" height="111" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="245" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
-    <state width="1515" height="111" key="GridCell.Tab.1.right" timestamp="1651746146638">
+    <state width="1515" height="111" key="GridCell.Tab.1.right" timestamp="1651812821958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="111" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651746146638" />
+    <state width="1515" height="111" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651812821958" />
     <state width="1899" height="245" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649642966941" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1650616982304">
       <screen x="0" y="0" width="1536" height="824" />
@@ -942,10 +937,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1651665415483" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651800612027">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651805051934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651800612027" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651805051934" />
     <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1649484774877" />
   </component>
   <component name="XDebuggerManager">
@@ -963,17 +958,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py</url>
-          <line>59</line>
+          <line>61</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py</url>
-          <line>114</line>
+          <line>118</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/MachineLearning/Pytorch/快速开始.py</url>
-          <line>77</line>
+          <line>79</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
