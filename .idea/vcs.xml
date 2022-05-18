@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MachineLearning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MachineLearning/neural-networks-and-deep-learning" vcs="Git" />
   </component>
 </project>

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec47b4f09eb29054",
+        "id": "b413d6512122e725",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "git 常用命令.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306,
-    "collapsed": true
+    "width": 306
   },
   "right": {
     "id": "f4a8dc6036b8f0c1",
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git 常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec47b4f09eb29054",
+  "active": "b413d6512122e725",
   "lastOpenFiles": [
+    "8.DM/多分类-手写识别体-总结.md",
+    "LaTeX的简单使用.md",
+    "3.Python刷题/Jupyter Notebook打开指定文件夹.md",
+    "Jupyter 更换主题.md",
+    "3.Python刷题/Python 读取 Excel 表格的几种方法.md",
     "git 常用命令.md",
     "3.Python刷题/二维数组一次取batch_size条数据.md",
     "8.DM/数据的标准化.md",
     "8.DM/Pytorch/构建自定义数据集.md",
-    "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md",
-    "3.Python刷题/Pytorch快速开始.md",
-    "3.Python刷题/类与继承.md",
-    "4.C语言刷题/2022武汉轻工大学 C语言 回忆.md",
-    "4.C语言刷题/2022武汉轻工大学 908C语言程序设计 考生会议题.md",
-    "3.Python刷题/pandas操作excel表格.md"
+    "8.DM/Pytorch/Pytorch构建自定义数据集并使用神经网络预测.md"
   ]
 }
